@@ -1,20 +1,13 @@
-class Solution:
+class Solution(object):
     def convert(self, s, numRows):
-        if numRows == 1:
+        if numRows == 1 or numRows >= len(s):
             return s
-        mat = [[] for _ in range(numRows)]
-        i = 0
-        n = len(s)
-        while i < n:
-            for down in range(numRows):
-                if i < n:
-                    mat[down].append(s[i])
-                    i += 1
-            for up in range(numRows - 2, 0, -1):
-                if i < n:
-                    mat[up].append(s[i])
-                    i += 1
-        ans = ""
-        for row in mat:
-            ans += ''.join(row)
-        return ans
+        rows = [""] * numRows
+        current_row = 0
+        direction = -1
+        for char in s:
+            rows[current_row] += char
+            if current_row == 0 or current_row == numRows - 1:
+                direction *= -1
+            current_row += direction
+        return "".join(rows)
