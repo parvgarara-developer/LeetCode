@@ -1,32 +1,29 @@
-class Solution(object):
+class Solution:
     def findMedianSortedArrays(self, nums1, nums2):
-        """
-        :type nums1: List[int]
-        :type nums2: List[int]
-        :rtype: float
-        """
         if len(nums1) > len(nums2):
             nums1, nums2 = nums2, nums1
-        
-        m, n = len(nums1), len(nums2)
-        left, right = 0, m
-        
-        while left <= right:
-            partition1 = (left + right) // 2
-            partition2 = (m + n + 1) // 2 - partition1
+
+        low = 0
+        high = len(nums1)
+        n1 = len(nums1)
+        n2 = len(nums2)
+        while low <= high:
+            part1 = (low + high) // 2
+            part2 = (n1 + n2 + 1) // 2 - part1
             
-            maxLeft1 = float('-inf') if partition1 == 0 else nums1[partition1 - 1]
-            minRight1 = float('inf') if partition1 == m else nums1[partition1]
-            
-            maxLeft2 = float('-inf') if partition2 == 0 else nums2[partition2 - 1]
-            minRight2 = float('inf') if partition2 == n else nums2[partition2]
-            
-            if maxLeft1 <= minRight2 and maxLeft2 <= minRight1:
-                if (m + n) % 2 == 0:
-                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0
-                else:
-                    return max(maxLeft1, maxLeft2)
-            elif maxLeft1 > minRight2:
-                right = partition1 - 1
+            max_left1 = nums1[part1 - 1] if part1 > 0 else float('-inf')
+            min_right1 = nums1[part1] if part1 < n1 else float('inf')
+
+            max_left2 = nums2[part2 - 1] if part2 > 0 else float('-inf')
+            min_right2 = nums2[part2] if part2 < n2 else float('inf')
+
+            if max_left1 <= min_right2 and max_left2 <= min_right1:
+                if (n1 + n2) % 2 == 1:
+                    return max(max_left1, max_left2)
+                return (max(max_left1, max_left2) +
+                        min(min_right1, min_right2)) / 2.0
+
+            if max_left1 > min_right2:
+                high = part1 - 1
             else:
-                left = partition1 + 1
+                low = part1 + 1
