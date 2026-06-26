@@ -1,7 +1,4 @@
 class Solution:
     def moveZeroes(self, nums):
-        j = 0
-        for i in range(len(nums)):
-            if nums[i] != 0:
-                nums[j], nums[i] = nums[i], nums[j]
-                j += 1
+        non_zero = [x for x in nums if x]
+        nums[:] = non_zero + [0] * (len(nums) - len(non_zero))
