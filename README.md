@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/parvgarara-developer/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parvgarara-developer/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/parvgarara-developer/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/parvgarara-developer/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/parvgarara-developer/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parvgarara-developer/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parvgarara-developer/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/parvgarara-developer/LeetCode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/parvgarara-developer/LeetCode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/parvgarara-developer/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
