@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/parvgarara-developer/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/parvgarara-developer/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/parvgarara-developer/LeetCode/tree/master/0009-palindrome-number) |
+| [0415-add-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/parvgarara-developer/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/parvgarara-developer/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/parvgarara-developer/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0415-add-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/parvgarara-developer/LeetCode/tree/master/0217-contains-duplicate) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
