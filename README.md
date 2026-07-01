@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/parvgarara-developer/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/parvgarara-developer/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parvgarara-developer/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/parvgarara-developer/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/parvgarara-developer/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/parvgarara-developer/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/parvgarara-developer/LeetCode/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/parvgarara-developer/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/parvgarara-developer/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/parvgarara-developer/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/parvgarara-developer/LeetCode/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
