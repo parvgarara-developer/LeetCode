@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/parvgarara-developer/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/parvgarara-developer/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/parvgarara-developer/LeetCode/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/parvgarara-developer/LeetCode/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parvgarara-developer/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/parvgarara-developer/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/parvgarara-developer/LeetCode/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/parvgarara-developer/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/parvgarara-developer/LeetCode/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
