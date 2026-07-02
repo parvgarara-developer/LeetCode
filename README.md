@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/parvgarara-developer/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/parvgarara-developer/LeetCode/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/parvgarara-developer/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1313-decompress-run-length-encoded-list](https://github.com/parvgarara-developer/LeetCode/tree/master/1313-decompress-run-length-encoded-list) |
 ## Hash Table
 |  |
 | ------- |
