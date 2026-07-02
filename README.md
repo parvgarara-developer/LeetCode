@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/parvgarara-developer/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/parvgarara-developer/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/parvgarara-developer/LeetCode/tree/master/0283-move-zeroes) |
+| [1260-shift-2d-grid](https://github.com/parvgarara-developer/LeetCode/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0415-add-strings) |
+| [1260-shift-2d-grid](https://github.com/parvgarara-developer/LeetCode/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/parvgarara-developer/LeetCode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
