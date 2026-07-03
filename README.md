@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parvgarara-developer/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/parvgarara-developer/LeetCode/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/parvgarara-developer/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/parvgarara-developer/LeetCode/tree/master/1260-shift-2d-grid) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/parvgarara-developer/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
