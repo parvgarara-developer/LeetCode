@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/parvgarara-developer/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/parvgarara-developer/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/parvgarara-developer/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/parvgarara-developer/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/parvgarara-developer/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/parvgarara-developer/LeetCode/tree/master/0067-add-binary) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/parvgarara-developer/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/parvgarara-developer/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/parvgarara-developer/LeetCode/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/parvgarara-developer/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/parvgarara-developer/LeetCode/tree/master/0709-to-lower-case) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/parvgarara-developer/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/parvgarara-developer/LeetCode/tree/master/1260-shift-2d-grid) |
