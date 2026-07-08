@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/parvgarara-developer/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/parvgarara-developer/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/parvgarara-developer/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/parvgarara-developer/LeetCode/tree/master/0020-valid-parentheses) |
 | [0415-add-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/parvgarara-developer/LeetCode/tree/master/0709-to-lower-case) |
 ## Sliding Window
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/parvgarara-developer/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/parvgarara-developer/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
