@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/parvgarara-developer/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/parvgarara-developer/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/parvgarara-developer/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/parvgarara-developer/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/parvgarara-developer/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/parvgarara-developer/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/parvgarara-developer/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parvgarara-developer/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/parvgarara-developer/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/parvgarara-developer/LeetCode/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parvgarara-developer/LeetCode/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/parvgarara-developer/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
