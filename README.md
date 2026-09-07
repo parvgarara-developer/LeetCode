@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/parvgarara-developer/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parvgarara-developer/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/parvgarara-developer/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0372-super-pow](https://github.com/parvgarara-developer/LeetCode/tree/master/0372-super-pow) |
 | [0400-nth-digit](https://github.com/parvgarara-developer/LeetCode/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parvgarara-developer/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parvgarara-developer/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0372-super-pow](https://github.com/parvgarara-developer/LeetCode/tree/master/0372-super-pow) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/parvgarara-developer/LeetCode/tree/master/0223-rectangle-area) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/parvgarara-developer/LeetCode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/parvgarara-developer/LeetCode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
