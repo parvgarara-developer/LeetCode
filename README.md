@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/parvgarara-developer/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/parvgarara-developer/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/parvgarara-developer/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/parvgarara-developer/LeetCode/tree/master/0400-nth-digit) |
 | [0415-add-strings](https://github.com/parvgarara-developer/LeetCode/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/parvgarara-developer/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/parvgarara-developer/LeetCode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/parvgarara-developer/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/parvgarara-developer/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0400-nth-digit](https://github.com/parvgarara-developer/LeetCode/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
 | ------- |
